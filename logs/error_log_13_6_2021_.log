@@ -1,0 +1,90 @@
+{
+  level: 'error',
+  message: "task insert db error : Error: ER_NO_SUCH_TABLE: Table 'kabs.taswks' doesn't exist",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:20:30.230Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:47:08.783Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:53:07.544Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:53:24.204Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:55:35.412Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:55:52.000Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:56:00.468Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:05:56.969Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:06:33.438Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:06:39.973Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:06:51.092Z'
+}
+{
+  level: 'error',
+  message: "task insert db error : Error: ER_BAD_FIELD_ERROR: Unknown column 'createdBy' in 'field list'",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:36:03.414Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:37:34.121Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:38:29.662Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:38:40.770Z'
+}

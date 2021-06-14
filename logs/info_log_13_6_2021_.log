@@ -1,0 +1,510 @@
+{
+  level: 'info',
+  message: 'task request params : {}',
+  label: 'Suzuki Log Messages',
+  timestamp: '2021-06-12T19:58:13.035Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {}',
+  label: 'Suzuki Log Messages',
+  timestamp: '2021-06-12T20:01:59.550Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {}',
+  label: 'Suzuki Log Messages',
+  timestamp: '2021-06-12T20:02:16.108Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {}',
+  label: 'Suzuki Log Messages',
+  timestamp: '2021-06-12T20:02:58.356Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {}',
+  label: 'Suzuki Log Messages',
+  timestamp: '2021-06-12T20:04:39.351Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Suzuki Log Messages',
+  timestamp: '2021-06-12T20:05:04.713Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Suzuki Log Messages',
+  timestamp: '2021-06-12T20:05:22.508Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Suzuki Log Messages',
+  timestamp: '2021-06-12T20:06:53.902Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Suzuki Log Messages',
+  timestamp: '2021-06-12T20:07:26.323Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:08:25.339Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:08:47.882Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:09:33.544Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:10:00.667Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:11:08.263Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:12:00.395Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:12:56.136Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:13:00.109Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:13:38.864Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:17:26.824Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:17:55.561Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:18:04.737Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:18:30.999Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:20:30.221Z'
+}
+{
+  level: 'error',
+  message: "task insert db error : Error: ER_NO_SUCH_TABLE: Table 'kabs.taswks' doesn't exist",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:20:30.230Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:21:20.386Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:21:59.808Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"Test","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:22:05.996Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:33:56.467Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:34:15.711Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:34:50.190Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:37:04.148Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:37:41.646Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:39:22.055Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:42:11.319Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:42:54.172Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:44:22.135Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:45:47.425Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:47:08.778Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:47:08.783Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:53:07.539Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:53:07.544Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"121212","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:53:12.084Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"121212","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:53:24.197Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:53:24.204Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"121212","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:53:42.997Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"   ","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:55:35.406Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:55:35.412Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjec@# tiel? asd","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:55:51.999Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:55:52.000Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":"This is testing"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:56:00.467Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T20:56:00.468Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":"This is testing","created_by":""}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:03:17.057Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":"This is testing","created_by":""}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:03:41.603Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":"This is testing","created_by":""}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:04:20.197Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":"This is testing","created_by":""}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:04:32.448Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":"","created_by":""}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:05:51.789Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"","created_by":""}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:05:56.968Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:05:56.969Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"","description":"","created_by":""}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:06:33.432Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:06:33.438Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":"This is testing","created_by":""}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:06:39.972Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:06:39.973Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":""}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:06:51.091Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:06:51.092Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":"1"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:06:56.084Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":"1"}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:08:08.107Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:08:25.170Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:08:51.876Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:09:36.380Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:10:13.816Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:11:34.982Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:12:10.353Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":0}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:12:14.819Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":0}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-12T21:13:09.896Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:36:03.406Z'
+}
+{
+  level: 'error',
+  message: "task insert db error : Error: ER_BAD_FIELD_ERROR: Unknown column 'createdBy' in 'field list'",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:36:03.414Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectiel? asd","description":" This is testing This is testing This is testing This is testing","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:37:17.713Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectie","description":" This is testing ","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:37:34.119Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:37:34.121Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectie","description":" This is testing ","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:38:29.662Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:38:29.662Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectie","description":" This is testing 1111111111111111111111111","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:38:40.769Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:38:40.770Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectie","description":" This is testing 11111111111111111111111111111111111111","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:38:46.581Z'
+}
+{
+  level: 'info',
+  message: 'task request params : {"title":"My subjectie","description":" This is testing 11111111111111111111111111111111111111","created_by":1}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-13T08:39:17.093Z'
+}

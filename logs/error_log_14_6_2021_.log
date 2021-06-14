@@ -1,0 +1,144 @@
+{
+  level: 'error',
+  message: 'task request params: ReferenceError: Validator is not defined',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T05:58:58.348Z'
+}
+{
+  level: 'error',
+  message: 'task request params: [object Object]',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T05:59:21.302Z'
+}
+{
+  level: 'error',
+  message: `task select db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password = "undefined"' at line 1`,
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T08:40:19.532Z'
+}
+{
+  level: 'error',
+  message: 'Login Invalid Data : {"email":{"message":"The email must be a valid email address.","rule":"email"}}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T08:40:38.047Z'
+}
+{
+  level: 'error',
+  message: `task select db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password = "undefined"' at line 1`,
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T08:40:38.053Z'
+}
+{
+  level: 'error',
+  message: `task select db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password = "undefined"' at line 1`,
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T08:41:25.078Z'
+}
+{
+  level: 'error',
+  message: `task select db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password = "undefined"' at line 1`,
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T08:41:47.178Z'
+}
+{
+  level: 'error',
+  message: `task select db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password = "undefined"' at line 1`,
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T08:42:41.832Z'
+}
+{
+  level: 'error',
+  message: `task select db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password = "undefined"' at line 1`,
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T08:44:20.812Z'
+}
+{
+  level: 'error',
+  message: `task select db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password = "undefined"' at line 1`,
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T08:49:28.431Z'
+}
+{
+  level: 'error',
+  message: `task select db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password = "undefined"' at line 1`,
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T08:49:37.480Z'
+}
+{
+  level: 'error',
+  message: `task select db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' password = "kab@123"' at line 1`,
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T08:50:20.690Z'
+}
+{
+  level: 'error',
+  message: "task details select db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T09:20:39.833Z'
+}
+{
+  level: 'error',
+  message: "task details select db error : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T09:28:03.346Z'
+}
+{
+  level: 'error',
+  message: "task details select db error : Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T09:28:40.180Z'
+}
+{
+  level: 'error',
+  message: 'Login Invalid Data : {"email":{"message":"The email field is mandatory.","rule":"required"},"password":{"message":"The password field is mandatory.","rule":"required"}}',
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T10:11:18.481Z'
+}
+{
+  level: 'error',
+  message: "task update db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T10:11:41.954Z'
+}
+{
+  level: 'error',
+  message: "task update db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T10:11:56.722Z'
+}
+{
+  level: 'error',
+  message: "task update db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id =' at line 1",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T10:12:50.990Z'
+}
+{
+  level: 'error',
+  message: "task update db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'story, WHERE id =' at line 1",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T10:15:17.314Z'
+}
+{
+  level: 'error',
+  message: "task update db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id =' at line 1",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T10:15:49.204Z'
+}
+{
+  level: 'error',
+  message: "task update db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T10:16:13.889Z'
+}
+{
+  level: 'error',
+  message: "task update db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T10:16:35.044Z'
+}
+{
+  level: 'error',
+  message: "task update db error : Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T10:22:22.331Z'
+}
