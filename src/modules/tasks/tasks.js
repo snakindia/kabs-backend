@@ -60,7 +60,7 @@ module.exports = {
                 IF(CHAR_LENGTH(tasks.title) > 25, CONCAT(SUBSTRING(tasks.title, 1, 25), "..."), tasks.title) as title FROM tasks \n\
                 LEFT JOIN users as u1 ON created_by = u1.id \n\
                 LEFT JOIN users as u2 ON assigned_to = u2.id \n\
-                order by create_date desc', function (error, results, fields) {
+                order by id desc', function (error, results, fields) {
                 if (error) {
                     logger.log({level: 'error', message: 'task select db error : '+ error});
                     throw error;
