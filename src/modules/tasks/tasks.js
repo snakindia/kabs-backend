@@ -56,7 +56,7 @@ module.exports = {
 
     getTaskList: function (req, res) {
         try {
-            db.query('SELECT * FROM tasks', function (error, results, fields) {
+            db.query('SELECT tasks.*, IF(name != null, name, "") as assigned_to FROM tasks LEFT JOIN users ON assigned_to = users.id', function (error, results, fields) {
                 if (error) {
                     logger.log({level: 'error', message: 'task select db error : '+ error});
                     throw error;
