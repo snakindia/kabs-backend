@@ -1,0 +1,8 @@
+{
+  "runtime":{
+    "majorVersion":"8"
+  },
+  "command": "node src/server/Server.js",
+  "release": {},
+  "notes": ""
+}
