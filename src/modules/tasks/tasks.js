@@ -37,8 +37,8 @@ module.exports = {
     validateData: function(req) {
         return new Promise((resolve, reject) => {
             const v = new Validator(req.body,
-                { title: 'required|minLength:5|maxLength:256',
-                    description: 'required|minLength:50|maxLength:256',
+                { title: 'required',
+                    description: 'required',
                     created_by: 'required|numeric',
                     assigned_to: 'required|numeric'
                 }
@@ -56,7 +56,7 @@ module.exports = {
 
     getTaskList: function (req, res) {
         try {
-            db.query('SELECT tasks.*, IF(name != null, name, "") as assigned_to FROM tasks LEFT JOIN users ON assigned_to = users.id', function (error, results, fields) {
+            db.query('SELECT tasks.*, IF(name != null, name, "") as assigned_to FROM tasks LEFT JOIN users ON assigned_to = users.id order by create_date desc', function (error, results, fields) {
                 if (error) {
                     logger.log({level: 'error', message: 'task select db error : '+ error});
                     throw error;
@@ -99,8 +99,6 @@ module.exports = {
         try {
             const v = new Validator(req.body,
                 { id: 'required|numeric',
-                    title: 'minLength:5|maxLength:256',
-                    description: 'minLength:50|maxLength:256',
                     created_by: 'numeric',
                     assigned_to: 'numeric'
                 }

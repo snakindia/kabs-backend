@@ -9,7 +9,7 @@ module.exports = {
             // get the fields
             let properties  = TaskRequest.getUserProp();
             let fields      = Util.getMappingFields(properties);
-            db.query('SELECT ' + fields + ' FROM users', function (error, results, fields) {
+            db.query('SELECT ' + fields + ' FROM users order by name asc', function (error, results, fields) {
                 if (error) {
                     logger.log({level: 'error', message: 'users select db error : '+ error});
                     throw error;
