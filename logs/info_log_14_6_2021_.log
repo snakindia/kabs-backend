@@ -340,3 +340,15 @@
   label: 'Kabs Log Messages',
   timestamp: '2021-06-14T11:58:39.053Z'
 }
+{
+  level: 'error',
+  message: "task details select db error : Error: ER_NON_UNIQ_ERROR: Column 'id' in where clause is ambiguous",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T16:09:52.709Z'
+}
+{
+  level: 'error',
+  message: "task select db error : Error: ER_NON_UNIQ_ERROR: Column 'name' in field list is ambiguous",
+  label: 'Kabs Log Messages',
+  timestamp: '2021-06-14T16:12:40.258Z'
+}
