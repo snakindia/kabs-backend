@@ -85,7 +85,8 @@ module.exports = {
                 }
             });
 
-            db.query('SELECT tasks.*, u1.name as created_by, u2.name as assigned_to FROM tasks \n\
+            db.query('SELECT tasks.*, u1.name as created_by, u2.name as assigned_to, \n\
+                tasks.created_by as created_by_id, tasks.assigned_to as assigned_to_id FROM tasks \n\
                 LEFT JOIN users as u1 ON created_by = u1.id \n\
                 LEFT JOIN users as u2 ON assigned_to = u2.id\n\
                 WHERE tasks.id = ' + req.query.id, function (error, results, fields) {
